@@ -1,1 +1,0 @@
-# Quant package initializer
